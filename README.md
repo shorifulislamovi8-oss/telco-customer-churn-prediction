@@ -208,3 +208,4 @@ day_01/
 This project demonstrates an end-to-end machine learning workflow for customer churn prediction, from data exploration and preprocessing to model evaluation, threshold analysis, business insights, and customer-level prediction.
 
 The project also demonstrates how machine learning results can be connected to practical business questions rather than focusing only on model accuracy.
+
