@@ -18,24 +18,29 @@ The target variable is Churn, where Yes indicates that the customer churned and 
 The dataset includes customer demographic information, services used, contract details, payment method, tenure, monthly charges, and total charges, making it suitable for real-world customer retention analysis.
 
 ## Project Workflow
-Data Loading
-Exploratory Data Analysis (EDA)
-Data Cleaning and Feature Preparation
-Train-Test Split
-Preprocessing
-StandardScaler for numerical features
-OneHotEncoder for categorical features
-Model Training
-Logistic Regression
-Random Forest
-Model Evaluation
-Classification Report
-Confusion Matrix
-ROC-AUC
-Precision-Recall Curve
-Threshold Analysis
-Business Insights
-Customer-Level Churn Prediction
+
+1. Data Loading
+2. Exploratory Data Analysis (EDA)
+3. Data Cleaning and Feature Preparation
+4. Train-Test Split
+5. Preprocessing
+
+   * StandardScaler for numerical features
+   * OneHotEncoder for categorical features
+6. Model Training
+
+   * Logistic Regression
+   * Random Forest
+7. Model Evaluation
+
+   * Classification Report
+   * Confusion Matrix
+   * ROC-AUC
+   * Precision-Recall Curve
+8. Threshold Analysis
+9. Business Insights
+10. Customer-Level Churn Prediction
+
 
 ## Models
 
