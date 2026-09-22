@@ -170,12 +170,13 @@ day_01/
 ```
 ### Folder Description
 
-* `data/raw` contains the raw dataset used for analysis and modeling.
+* `data/raw` is the directory where the raw dataset should be placed locally for analysis and modeling.
 * `notebooks` is for exploratory notebooks and experiments.
 * `src` is for source code and reusable project logic.
 * `tests` is for testing and validation scripts.
 * `requirements.txt` contains the Python dependencies required to run the project.
 * `Real ML Project.py` contains the main machine learning workflow.
+
 
 ## Technologies Used
 
