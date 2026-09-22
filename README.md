@@ -9,11 +9,11 @@ The project includes data exploration, preprocessing, feature engineering, model
 Two models were evaluated: Logistic Regression and Random Forest. The workflow demonstrates how to train, compare, and evaluate these models for customer churn prediction.
 
 
-## Dataset
+Dataset
 
 The dataset used in this project is the Telco Customer Churn dataset. It contains 7,043 customer records and 21 columns in the original dataset.
 
-The target variable is `Churn`, where `Yes` indicates that the customer churned and `No` indicates that the customer did not churn.
+The target variable is Churn, where Yes indicates that the customer churned and No indicates that the customer did not churn.
 
 The dataset includes customer demographic information, services used, contract details, payment method, tenure, monthly charges, and total charges, making it suitable for real-world customer retention analysis.
 
