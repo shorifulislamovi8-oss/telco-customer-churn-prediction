@@ -154,7 +154,6 @@ python "Real ML Project.py"
 day_01/
 ├── data/
 │   └── raw/
-│       └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── notebooks/
 ├── src/
 ├── tests/
