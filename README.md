@@ -93,6 +93,7 @@ For the Random Forest model:
 
 The business-cost analysis uses hypothetical costs of `$10` for a false positive and `$100` for a false negative. These values are project assumptions and do not represent actual telecom business costs.
 
+
 ## Business Insights
 
 The dataset shows clear churn risk patterns among certain customer segments.
