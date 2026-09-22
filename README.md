@@ -149,7 +149,7 @@ pip install -r requirements.txt
 python "Real ML Project.py"
 ```
 
-
+## Project Structure
 day_01/
 ├── data/
 │   └── raw/
