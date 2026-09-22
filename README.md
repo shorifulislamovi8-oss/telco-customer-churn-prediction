@@ -139,10 +139,7 @@ This probability represents the model's estimated likelihood based on the custom
 pip install -r requirements.txt
 ```
 
-5. Make sure the dataset is available at:
 
-```text
-data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
 ```
 
 6. Run the project script:
