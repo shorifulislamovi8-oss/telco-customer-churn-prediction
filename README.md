@@ -58,6 +58,7 @@ The model was configured with 200 trees using `n_estimators=200` and `class_weig
 
 The model was trained on the preprocessed and encoded features to evaluate its classification performance.
 
+
 ## Model Evaluation
 
 | Metric             | Logistic Regression | Random Forest |
