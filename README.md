@@ -150,6 +150,9 @@ python "Real ML Project.py"
 ```
 
 ## Project Structure
+
+
+```text
 day_01/
 ├── data/
 │   └── raw/
@@ -164,7 +167,7 @@ day_01/
 ├── requirements.txt
 ├── README.md
 └── Real ML Project.py
-
+```
 ### Folder Description
 
 * `data/raw` contains the raw dataset used for analysis and modeling.
