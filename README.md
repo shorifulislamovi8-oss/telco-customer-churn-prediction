@@ -151,7 +151,6 @@ python "Real ML Project.py"
 
 ## Project Structure
 
-
 ```text
 day_01/
 ├── data/
