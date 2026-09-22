@@ -135,7 +135,7 @@ This probability represents the model's estimated likelihood based on the custom
 3. Create and activate a virtual environment in the project directory.
 4. Install the required dependencies:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
