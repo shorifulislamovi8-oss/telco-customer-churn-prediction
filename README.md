@@ -187,6 +187,7 @@ day_01/
 * Matplotlib
 * Joblib
 
+
 ## Key Skills Demonstrated
 
 * Data Cleaning
@@ -203,7 +204,6 @@ day_01/
 * Precision-Recall Analysis
 * Business-Oriented ML Analysis
 * Customer-Level Prediction
-* Model Saving and Loading
 
 ## Conclusion
 
