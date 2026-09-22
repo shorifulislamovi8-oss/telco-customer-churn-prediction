@@ -72,6 +72,7 @@ Accuracy measures overall correct predictions. Churn Recall measures how many ac
 
 Threshold selection can change precision, recall, F1, and business cost. The evaluation is based on the test set, and model selection depends on the specific business objective.
 
+
 ## Threshold Analysis
 
 Different probability thresholds were tested to understand the trade-off between precision, recall, F1 score, and estimated business cost.
