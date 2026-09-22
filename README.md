@@ -150,20 +150,20 @@ python "Real ML Project.py"
 ```
 
 
-## Project Structure
-
-```text
 day_01/
 ├── data/
 │   └── raw/
+│       └── .gitkeep
 ├── notebooks/
+│   └── .gitkeep
 ├── src/
+│   └── .gitkeep
 ├── tests/
+│   └── .gitkeep
 ├── .gitignore
 ├── requirements.txt
 ├── README.md
 └── Real ML Project.py
-```
 
 ### Folder Description
 
