@@ -93,7 +93,6 @@ For the Random Forest model:
 
 The business-cost analysis uses hypothetical costs of `$10` for a false positive and `$100` for a false negative. These values are project assumptions and do not represent actual telecom business costs.
 
-
 ## Business Insights
 
 The dataset shows clear churn risk patterns among certain customer segments.
@@ -120,6 +119,7 @@ A particularly high-risk group was identified consisting of customers with:
 This combined group included 989 customers and had an observed churn rate of `65.82%`.
 
 These findings represent observed associations in the dataset and should not be interpreted as proof of causation.
+
 
 ## Customer-Level Prediction
 
